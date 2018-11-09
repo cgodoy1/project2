@@ -1,0 +1,48 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.HS {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+	height: 25%;
+}
+
+.1grid-item {
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+	
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+
+h4 {
+	text-align: center;
+	font-size: 5;
+}
+
+table {
+	text-align: center;
+}
+
+.grid-item {
+   margin-left:center; 
+  
+  }
+	
+body {
+	background-color: #ffcc00;
+		}
+	
+	table {
+    border: 1px solid black;
+}
